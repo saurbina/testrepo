@@ -1,4 +1,4 @@
-# Load packages
+# Load packagess
 library(bayesrules)
 library(tidyverse)
 library(janitor)
