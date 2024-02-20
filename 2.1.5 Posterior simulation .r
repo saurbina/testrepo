@@ -64,3 +64,6 @@ article_sim %>%
   ggplot(article_sim, aes(x = type)) + 
   geom_bar() + 
   facet_wrap(~ usage)
+
+
+    print("Hello World")
