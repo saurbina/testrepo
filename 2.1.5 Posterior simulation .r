@@ -1,3 +1,4 @@
+
 # Load packagess
 library(bayesrules)
 library(tidyverse)
@@ -67,3 +68,4 @@ article_sim %>%
 
 
     print("Hello World")
+2+2
